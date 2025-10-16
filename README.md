@@ -74,7 +74,7 @@ Carefully follow the steps
 
 * `1G` drive mounting
   - `mkdir /mnt/boot`
-  - `mount /dev/nvme0n1p5 /mnt/boot`
+  - `mount /dev/<  your drive name > /mnt/boot`
 
 > In my case i have used 
 
